@@ -9,7 +9,7 @@
     <img align="center" src="Telegram_black.png" height="25px" width="25px" />
   </a>
   &nbsp;&nbsp;
-    <a href="mailto:va.gaidenko@gmail.com"> target="_blank" style='margin-right:10px'>
+    <a href="mailto:va.gaidenko@gmail.com" target="_blank" style='margin-right:10px'>
     <img align="center" src="Google +_black.png" height="25px" width="25px" />
   </a>
   &nbsp;&nbsp;
